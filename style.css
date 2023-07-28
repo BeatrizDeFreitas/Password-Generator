@@ -2,6 +2,7 @@
     --darkblue: #282847;
     --gray: #494957;
     --pink: rgb(218, 122, 183);
+    --darkpink:rgb(163, 51, 122);
 }
 
 *{
@@ -47,6 +48,7 @@ input:not([type='checkbox']), button {
 
 input[type='checkbox'] {
     cursor: pointer;
+    accent-color: var(--darkpink);
 }
 
 .password-wrap {
