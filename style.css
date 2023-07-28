@@ -35,6 +35,7 @@ main {
 h1 {
     font-size: 2rem;
     margin-bottom: 1.3rem;
+    text-align: center;
 }
 
 input:not([type='checkbox']), button {
