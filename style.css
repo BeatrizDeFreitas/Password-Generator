@@ -116,6 +116,7 @@ button[type='submit'] {
     background-position: 25%;
     transition: 0.3s ease-out;
     border-radius: 0.35rem;
+    margin-left: 190px;
 }
 
 button[type='submit']:hover {
