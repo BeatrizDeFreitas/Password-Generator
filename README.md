@@ -1,3 +1,3 @@
 # Password-Generator
 
-![Screenshot from 2023-07-29 16-09-16](https://github.com/BeatrizDeFreitas/Password-Generator/assets/96779549/bc42516e-1954-47c3-832a-649944ea56be)
+![Password Generator](https://github.com/BeatrizDeFreitas/Password-Generator/assets/96779549/b90ecb98-4984-461b-bea9-63af09d41df7)
